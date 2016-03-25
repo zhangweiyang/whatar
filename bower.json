@@ -1,0 +1,23 @@
+{
+  "name": "whatar",
+  "description": "just a test of laravel",
+  "main": "",
+  "authors": [
+    "xin <1521430198@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "no",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "AdminLTE": "adminlte#^2.3.3"
+  }
+}
